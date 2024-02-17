@@ -1,4 +1,9 @@
 # WEEK40069
+
+# Download related files: https://drive.google.com/drive/folders/1GJp4rMy6lYpGDdo-tXu7kitFbrYMlxly?usp=drive_link
+
+
+
 # Unsupervised Learning
 This section marks our journey into another significant domain of machine learning and AI: unsupervised learning. Rather than delving deep into theoretical intricacies, our focus here will be on offering a practical guide. We aim to equip you with a clear understanding and effective tools for employing unsupervised learning methods in real-world (EO) scenarios.
 
